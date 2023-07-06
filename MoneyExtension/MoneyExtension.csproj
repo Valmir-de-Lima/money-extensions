@@ -16,7 +16,7 @@
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;decimal;integer;cents</PackageTags>
-    <Title>MoneyExtensions</Title>
+    <Title>MoneyExtensionsValmir</Title>
     <Summary>Extension to Convert decimal money to integer cents.</Summary>
   </PropertyGroup>
 
