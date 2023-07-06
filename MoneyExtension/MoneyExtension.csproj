@@ -4,6 +4,24 @@
     <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <PackageId>MoneyExtensionsValmir</PackageId>
+    <Version>1.0.0</Version>
+    <License>MIT</License>
+    <Authors>Valmir de Lima</Authors>
+    <PackageDescription>Extension to Convert decimal money to integer cents</PackageDescription>
+    <Description>Extension to Convert decimal money to integer cents</Description>
+    <RepositoryUrl>https://github.com/Valmir-de-Lima/money-extensions</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Valmir-de-Lima/money-extensions</PackageProjectUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>money;decimal;integer;cents</PackageTags>
+    <Title>MoneyExtensions</Title>
+    <Summary>Extension to Convert decimal money to integer cents.</Summary>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 
 </Project>
