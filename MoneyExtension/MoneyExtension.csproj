@@ -6,7 +6,7 @@
     <Nullable>enable</Nullable>
 
     <PackageId>MoneyExtensionsValmir</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <License>MIT</License>
     <Authors>Valmir de Lima</Authors>
     <PackageDescription>Extension to Convert decimal money to integer cents</PackageDescription>
@@ -22,6 +22,7 @@
 
   <ItemGroup>
     <None Include="..\Media\icon.png" Pack="true" PackagePath="\"/>
+    <None Include="..\docs\README.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
 </Project>
